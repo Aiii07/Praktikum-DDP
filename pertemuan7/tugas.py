@@ -1,0 +1,15 @@
+kendaraan = ["B", "motor", "110 CC", "hitam"]
+kendaraan.append("18 juta")
+kendaraan.append("2")
+kendaraan.insert(2, "honda")
+kendaraan.insert(3, "motor matic")
+
+print(kendaraan)
+print("Kode kendaraan :", kendaraan [0])
+print("Nama kendaraan :", kendaraan [1])
+print("Merk kendaraan :", kendaraan [2])
+print("Jenis kendaraan :", kendaraan [3])
+print("CC kendaraan :", kendaraan [4])
+print("Warna kendaraan :", kendaraan [5])
+print("Harga kendaraan :", kendaraan [6])
+print("Jumlah kendaraan :", kendaraan [7])
